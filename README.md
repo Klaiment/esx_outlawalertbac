@@ -1,3 +1,18 @@
+### Requirements
+
+
+
+* BAC
+
+
+
+  * [esx_bacjob](https://github.com/SphinxReal/esx_bacjob)
+
+
+
+
+
+
 Adaptation du script esx_outlawalert (https://github.com/ESX-PUBLIC/esx_outlawalert/) pour la BAC (https://github.com/SphinxReal/esx_bacjob)
  
 Adaptation of the esx_outlawalert script(https://github.com/ESX-PUBLIC/esx_outlawalert/) for BAC (https://github.com/SphinxReal/esx_bacjob)
